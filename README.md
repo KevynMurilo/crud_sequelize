@@ -9,7 +9,7 @@ Este projeto é um Sistema de Gestão de Cursos que visa simplificar a administr
 - Migrações e Seeders: Utilização de migrações e seeders para facilitar a configuração inicial do banco de dados, permitindo uma fácil reprodução do ambiente.
 
 ## Instalação
-1. Clone o repositório: git clone https://github.com/seu-usuario/seu-projeto.git
+1. Clone o repositório: git clone https://github.com/KevynMurilo/crud_sequelize.git
 2. Instale as dependências: npm install
 3. Configure o banco de dados no arquivo .sequelizerc e src/config/config.json
 4. Execute as migrações do banco de dados: npx sequelize-cli db:migrate
